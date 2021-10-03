@@ -9,3 +9,7 @@
 .card-header {
     background: #677662;
 }
+
+.card {
+    margin-top: 5vh;
+}
